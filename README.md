@@ -115,11 +115,13 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SCodreanu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCodreanu&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
   <br/><br/>
+
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=SCodreanu&theme=tokyo-night"
+  src="https://raw.githubusercontent.com/SCodreanu/SCodreanu/output/activity-graph.svg"
   width="100%"
   alt="Contribution activity graph"
 />
+
 </div>
 
 <br/>
