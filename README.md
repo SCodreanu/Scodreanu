@@ -7,7 +7,7 @@
     <td width="58%" valign="middle">
       <h1>👋 Hi, I'm Stefan Codreanu! </h1>
       <h3>IT & Web Developer Student</h3>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=3B82F6&vCenter=true&width=420&lines=Frontend+with+React+and+TypeScript;Building+responsive%2C+user-centric+apps;Always+learning.+Always+building." alt="Typing animation"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=3B82F6&vCenter=true&width=420&lines=Web+Developer;Building+responsive%2C+user-centric+apps;Always+learning.+Always+building." alt="Typing animation"/>
       <p>I am currently enrolled in my second year at <strong>ITS ICT Academy Piemonte</strong>. I focus on building responsive, efficient, and user-centric websites and web applications while continuously learning new technologies and best practices to improve my coding skills.</p>
       <a href="https://github.com/SCodreanu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
       <a href="https://www.linkedin.com/in/stefan-codreanu-000380366/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
