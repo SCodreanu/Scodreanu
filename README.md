@@ -6,8 +6,7 @@
   <tr>
     <td width="58%" valign="middle">
       <h1>👋 Hi, I'm Stefan Codreanu! </h1>
-      <h3>IT & Web Developer Student</h3>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=3B82F6&vCenter=true&width=420&lines=Web+Developer;Building+responsive%2C+user-centric+apps;Always+learning.+Always+building." alt="Typing animation"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=3B82F6&vCenter=true&width=650&lines=IT+Student;Web+Developer;Building+modern+web+solutions;Always+learning.+Always+improving." alt="Typing animation"/>
       <p>I am currently enrolled in my second year at <strong>ITS ICT Academy Piemonte</strong>. I focus on building responsive, efficient, and user-centric websites and web applications while continuously learning new technologies and best practices to improve my coding skills.</p>
       <a href="https://github.com/SCodreanu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
       <a href="https://www.linkedin.com/in/stefan-codreanu-000380366/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
@@ -36,6 +35,7 @@
     <th align="center" width="25%">Languages</th>
     <th align="center" width="25%">Databases</th>
     <th align="center" width="25%">Frameworks & Libraries</th>
+    <th align="center" width="25%">CMS & Platforms</th>
     <th align="center" width="25%">Tools & Environments</th>
   </tr>
   <tr>
@@ -61,7 +61,9 @@
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/><br/>
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/><br/>
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/><br/>
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+    </td>
+    <td align="center" valign="top">
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/><br/>
